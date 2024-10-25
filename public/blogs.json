@@ -1,0 +1,55 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co.com/QkSscYj/1.jpg",
+      "title": "Mastering Data Structures and Algorithms",
+      "author": "Samantha Green",
+      "author_img": "https://i.ibb.co.com/W0bTZb6/boy1.png",
+      "publishing_date": "September 12,2024",
+      "reading_time": 6,
+      "hashtags": ["#adventure", "#fantasy", "#journey"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/TvFJ6C6/2.png",
+      "title": "Cybersecurity Essentials for Beginners",
+      "author": "Tom Harris",
+      "author_img": "https://i.ibb.co.com/ChN7Cjy/boy2.jpg",
+      "publishing_date": "October 01,2024",
+      "reading_time": 14,
+      "hashtags": ["#thriller", "#mystery", "#crime"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/r3b7swH/3.png",
+      "title": "Introduction to Machine Learning",
+      "author": "Linda Rivera",
+      "author_img": "https://i.ibb.co.com/Cm4B5Qw/girl1.jpg",
+      "publishing_date": "May 19,2024",
+      "reading_time": 11,
+      "hashtags": ["#biography", "#nonfiction", "#inspiration"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co.com/BNTXc51/4.jpg",
+      "title": "Cloud Computing: Concepts and Applications",
+      "author": "Mark Stevenson",
+      "author_img": "https://i.ibb.co.com/0j8FfxX/girl2.jpg",
+      "publishing_date": "December 07,2024",
+      "reading_time": 7,
+      "hashtags": ["#romance", "#drama", "#relationships"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co.com/QkSscYj/1.jpg",
+      "title": "Building Web Applications with React",
+      "author": "Olivia White",
+      "author_img": "https://i.ibb.co.com/W0bTZb6/boy1.png",
+      "publishing_date": "January 14,2024",
+      "reading_time": 9,
+      "hashtags": ["#sciencefiction", "#space", "#exploration"]
+    }
+  ]
+
+  
+  
